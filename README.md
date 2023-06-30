@@ -1,10 +1,20 @@
 # JBP031-B-6 Data structures and Algorithms 2023 
+The following assignment description was given as part of the Data Structures and Algorithms course as part of the JADS pre-master:
+
+The municipal administration of Den Bosch wants to keep its streets clean by placing as
+many garbage bins as possible on street intersections, particularly in the aftermath of the
+carnival festivities. However, this would require the garbage collectors to make more stops
+on their daily routes, which they are not thrilled about. To reach a compromise, the city
+and the collectors have agreed that the city will place as many bins as possible, but only one
+bin will be placed on adjacent intersections. The parties are satisfied with this solution,
+and the city has already ordered the bins. However, the task of placing them in the city
+has proven to be more challenging than expected. As an expert in Algorithms and Data
+Structures, the city has enlisted your help to determine if it is feasible to place all the bins
+in the city.
 
 ## Garbage Collection Group Project
-- Read the [**project description**](Project&#32;Description.pdf)
-- Read our [**report**](https://www.overleaf.com/read/ywyjggjpvzkx)
+- Read our resulting [**report**](Garbage&#32;Collection&#32;Report.pdf)
 
 ### Actors:
 - Mikolaj Hilgert
 - Edde Jansen
-
