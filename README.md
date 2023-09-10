@@ -15,6 +15,10 @@ in the city.
 ## Garbage Collection Group Project
 - Read our resulting [**report**](Garbage&#32;Collection&#32;Report.pdf)
 
+### How to run?
+1. Installing the dependencies: In the project root run `pip install -r requirements.txt` to install the necessary packages.
+2. You can now run the projects [Jupyter notebook](DSA.ipynb).
+
 ### Actors:
 - Mikolaj Hilgert
 - Edde Jansen
