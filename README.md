@@ -16,8 +16,9 @@ in the city.
 - Read our resulting [**report**](Garbage&#32;Collection&#32;Report.pdf)
 
 ### How to run?
-1. Installing the dependencies: In the project root run `pip install -r requirements.txt` to install the necessary packages.
-2. You can now run the projects [Jupyter notebook](DSA.ipynb).
+1. Clone the repository.
+2. To install the project dependencies, navigate to the projects root and run `pip install -r requirements.txt` to install the necessary packages.
+3. You can now run the projects [Jupyter notebook](DSA.ipynb).
 
 ### Actors:
 - Mikolaj Hilgert
