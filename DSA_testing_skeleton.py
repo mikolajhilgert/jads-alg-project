@@ -77,10 +77,7 @@ class Graph:
             # Base case: if all vertices have been considered
             if vertex == n:
                 # Check if the current set has reached the desired size
-                if len(current_set) >= k:
-                    return True
-                else:
-                    return False
+                return len(current_set) >= k
 
             # Include the current vertex in the set if it's non-adjacent to all vertices in the set
             if not self.adjacency_list[vertex] & current_set: 
